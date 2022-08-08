@@ -26,7 +26,6 @@
         "target": "esnext",
         "moduleResolution": "node",
         "types": [
-            "chai",
             "mocha",
             "node"
         ]
